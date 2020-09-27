@@ -1,0 +1,92 @@
+*{
+ margin:0;
+ padding:0;
+
+}
+body{
+  font-family: 'Open Sans', 'sans-serif';
+}
+
+.navigation{
+  color:#fff;
+  background-color:#000f08;
+  height: 60px;
+}
+
+/* .logo_img{
+  margin-left: 40px;
+  margin-top:10px;
+  filter:invert(1);
+  width: 30px;
+  
+} */
+
+.svg_logo{
+  width: 30px;
+  display: inline-block;
+  fill:#fff;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.links{
+  display: inline-block;
+  position: relative;
+  top:-7px;
+  margin-top:20px;
+  margin-left: 20px;
+  color:white;
+}
+nav a {
+  text-decoration: none;
+  color:white;
+  padding:10px;
+  font-size:15px;
+}
+.title{
+  padding:20px 0;
+}
+
+main{
+  margin: 0 15%;
+}
+.logo{
+  width: 30px;
+  display: inline;
+}
+.img_post{
+  width: 100%;
+}
+.title2{
+  padding:15px 0;
+}
+
+p{
+  margin-bottom:15px;
+}
+
+footer{
+  color:#fff;
+  background-color:#000f08;
+  position: relative;
+  width: 100%;
+  bottom:0;
+  text-align:center;
+  height: 100px;
+  z-index:20;
+  
+}
+.social_network_images{
+  font-size: 40px;
+  padding-top: 10px;
+}
+
+.social_network_images a {
+  text-decoration: none;
+  color:white;
+}
+
+.social_network_texto{
+  padding-top: 10px;
+  font-size:12px;
+}
+
